@@ -143,14 +143,14 @@ class _StartingScreenState extends State<StartingScreen> {
                   ),
                   SizedBox(height: 40,),
                   Padding(padding: EdgeInsets.only(left: 50),
-                    child: Text("Bithdayyyy",style: TextStyle(
+                    child: Text("Bithdayyy",style: TextStyle(
                         fontWeight: FontWeight.w900,color: Color(0xff13195b),
                         fontSize: 70
                     )),
                   ),
                   SizedBox(height: 30,),
                   Padding(padding: EdgeInsets.only(left: 70),
-                    child: Text("Jerry",style: TextStyle(
+                    child: Text("Jerryyy:)",style: TextStyle(
                         fontWeight: FontWeight.w900,color: Color(0xff13195b),
                         fontSize: 80
                     )),
