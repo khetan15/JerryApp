@@ -33,7 +33,13 @@ class _StartingScreenState extends State<StartingScreen> {
     _timer = new Timer.periodic(
         oneSec,
         (Timer timer) => setState(() {
-              if (_start < 1) {
+              if (_start < 0) {
+                _controllerCenterRight.play();
+                _controllerCenterLeft.play();
+                timer.cancel();
+              }
+              else if(_start<1)
+              {
                 _controllerCenterRight.play();
                 _controllerCenterLeft.play();
                 timer.cancel();
