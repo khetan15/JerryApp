@@ -27,7 +27,7 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Jerry to my Akka'),
+        title: Text('Jerryyy to my Akkaaa'),
       ),
       body: FutureBuilder(
         future: _initializeVideoPlayerFuture,
