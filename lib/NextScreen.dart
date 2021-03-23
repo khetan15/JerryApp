@@ -110,7 +110,7 @@ class NextScreen extends StatelessWidget {
                             child: Icon(
                               FlutterIcons.play_circle_outline_mdi,
                               color: Colors.white,
-                              size: 55,
+                              size: 56,
                             ),
                             backgroundColor: Color(0xFF13195b),
                           ),
