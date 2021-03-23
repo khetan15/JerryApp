@@ -27,7 +27,7 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Jerryyy to my Akkaaa'),
+        title: Text('Jerryyy to my Akkaa'),
       ),
       body: FutureBuilder(
         future: _initializeVideoPlayerFuture,
@@ -37,7 +37,7 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
               aspectRatio: _controller.value.aspectRatio,
               child: VideoPlayer(_controller),
             );
-          } else {gi
+          } else {
             return Center(child: CircularProgressIndicator());
           }
         },
