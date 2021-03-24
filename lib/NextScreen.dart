@@ -30,7 +30,7 @@ class NextScreen extends StatelessWidget {
             centerTitle: true,
 
             title: Text(
-              "Jerry Ka Bday",
+              "Jerry Ka Bdayy",
               style: TextStyle(
                 fontWeight: FontWeight.bold,
                 color: Colors.white70,
