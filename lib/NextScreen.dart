@@ -19,7 +19,7 @@ class NextScreen extends StatelessWidget {
 
             bottom: TabBar(tabs: [
               Tab(
-                text: "sandesh",
+                text: "A2J#Dilkibaat",
               ),
               Tab(
                 text: "Memories",
