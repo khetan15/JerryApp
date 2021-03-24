@@ -24,7 +24,7 @@ class NextScreen extends StatelessWidget {
               Tab(
                 text: "Memories",
               ),
-              Tab(text: "VirtualTohfa"),
+              Tab(text: "Virtual_Tohfa"),
             ]),
 
             centerTitle: true,
