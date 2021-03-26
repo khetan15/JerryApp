@@ -22,7 +22,7 @@ class NextScreen extends StatelessWidget {
                 text: "A2J#Dilkibaat",
               ),
               Tab(
-                text: "Memories",
+                text: "Memories 4 lif",
               ),
               Tab(text: "Virtual_Tohfa"),
             ]),
