@@ -22,7 +22,7 @@ class NextScreen extends StatelessWidget {
                 text: "A2J#Dilkibaat",
               ),
               Tab(
-                text: "Memories 4 lif",
+                text: "Memories 4 life",
               ),
               Tab(text: "Virtual_Tohfa"),
             ]),
@@ -53,7 +53,7 @@ class NextScreen extends StatelessWidget {
                       children: [
 
                         Text(
-                          "Jerrryy...kya likhe...u know everything..Jab first time tutorial me tmhare bagal me baithe the toh kabhi imagine nai kie the ki aage chal ke aisi dosti ho jaegi!Tareef krne layak toh kuch hai nai bas itna kahenge ki tmhara presence hi peace hai meri monk baba:* I m & will alwayssss be there for u & with you..chahe park ke chakkar katne ho ya doctor k...RR krna ho ya ghanto shopping...fruits mangwana ho ya amul se momos :PKabhi bhi low/lonely feel ho and hmse contact na ho paye (mushkihaiyestill) to memories wali tasveerein dekh lena aur hamari bakchodiyan yaad krk khush ho jana! Tum bas mujhpe kitkat ki barish krte rho hm kachoriyon ki karte rhnge XD Fir aur kisi ki zaroorat hi kahan hai :) !!Bas itna hi hai tmse kehna<3 Happiest birthday meri strongest,cutest Chutiya!!!! "
+                          "Jerrryy...kya likhe..you know everything..Jab first time tutorial me tmhare bagal me baithe the toh kabhi imagine nai kie the ki aage chal ke aisi dosti ho jaegi!Tareef krne layak toh kuch hai nai bas itna kahenge ki tmhara presence hi peace hai meri monk baba:* I m & will alwayssss be there for u & with you..chahe park ke chakkar katne ho ya doctor k...RR krna ho ya ghanto shopping...fruits mangwana ho ya amul se momos :PKabhi bhi low/lonely feel ho and hmse contact na ho paye (mushkihaiyestill) to memories wali tasveerein dekh lena aur hamari bakchodiyan yaad krk khush ho jana! Tum bas mujhpe kitkat ki barish krte rho hm kachoriyon ki karte rhnge XD Fir aur kisi ki zaroorat hi kahan hai :) !!Bas itna hi hai tmse kehna<3 Happiest birthday meri strongest,cutest Chutiya!!!! "
                               ,
                           style: TextStyle(
                             fontSize: 21.6,
