@@ -73,7 +73,7 @@ class NextScreen extends StatelessWidget {
                   shadowColor: Colors.blueAccent,
                   child: ListView(
                     children: [
-                      Image(image: AssetImage("images/10.jpeg")),
+                      Image(image: AssetImage("images/2.jpeg")),
                       Image(image: AssetImage("images/2.jpeg")),
                       Image(image: AssetImage("images/3.jpeg")),
                       Image(image: AssetImage("images/6.jpeg")),
